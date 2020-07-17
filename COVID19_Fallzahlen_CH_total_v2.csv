@@ -3303,6 +3303,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-16,16:00,OW,,88,,0,,,,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,
 2020-07-16,16:00,UR,,111,,0,,,100,7,https://www.ur.ch/themen/2962,,
 2020-07-17,,FR,,1284,,2,1,,155,85,https://www.fr.ch/sites/default/files/2020-07/200717_statistiques_situation_COVID_FR1311.xlsx,,
+2020-07-17,,LU,,813,,6,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,36,86
 2020-07-17,01:00,SO,,500,,,,,,17,https://corona.so.ch/index.php?id=27979,,
 2020-07-17,08:00,AG,,1440,,,,,,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,71,213
 2020-07-17,08:00,AI,,25,,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0,3
@@ -3310,4 +3311,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-17,09:30,SH,,100,,7,0,,,7,https://sh.ch/CMS/get/file/d68253af-e045-4473-9905-e2828f27145a,,
 2020-07-17,10:00,SZ,,374,,,,,327,24,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,
 2020-07-17,10:00,TG,,427,0,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,
+2020-07-17,10:30,AR,,107,,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4,40
 2020-07-17,11:00,GL,,136,,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,
