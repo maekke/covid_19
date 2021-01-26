@@ -42,7 +42,10 @@ ips = split_whitespace(sc.find(r'\nCovid Patienten in IPS\s+(\d.*)\n', content))
 if len(dates) == len(travel_q) == len(isolation) == len(quarantined) == len(ips):
     for date, tq, iso, qua, ip in zip(dates, travel_q, isolation, quarantined, ips):
         dd = sc.DayData(canton='GL', url=pdf_url)
-        dd.datetime = f'{date}.{pdf_date.year}'
+        year = pdf_date.year
+        if pdf_date.year == 2021 and date.endswith('.12'):
+            year = 2020
+        dd.datetime = f'{date}.{year}'
         dd.quarantine_riskareatravel = tq
         dd.isolated = iso
         dd.quarantined = qua
